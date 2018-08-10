@@ -1,4 +1,4 @@
-//Program by Harsh Vardhan Singh, Ishvik Kumar Singh and Utsav Munendra
+//Program by Ishvik Kumar Singh and Utsav Munendra
 //Find how to use it at www.utsavm9.wordpress.com/computers
 
 //Libraries
